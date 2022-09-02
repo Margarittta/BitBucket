@@ -1,0 +1,88 @@
+body { 
+    background-color: rgb(224, 224, 224);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.heading {
+    width: 75%;
+    font-size: 30px;
+    padding-top: 10px;
+    margin: 20px;
+}
+
+.button {
+    background-color: #ebebeb; 
+    border: solid;
+    color: rgb(14, 14, 14);
+    padding: 5px 25px;
+    box-shadow:5px 2px 2px black;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 4px;
+}
+
+a {
+    text-decoration: none;
+    color: #1d1010;
+}
+
+a:hover {
+    color: rgb(122, 51, 237);
+}
+
+#delete-product-btn {
+    background-color: #ebebeb; 
+    border: solid;
+    color: rgb(14, 14, 14);
+    padding: 5px 20px;
+    box-shadow:5px 2px 2px black;
+    display: inline-block;
+    font-size: 16px;
+    margin: 35px;
+}
+
+.line {
+    border-bottom: 3px solid #1d1010; 
+    margin: 20px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 250px;
+}
+
+.block {
+    width: 300px;
+    height: 250px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 10px;
+    border: solid;    
+}
+
+.text {
+    text-align: center;
+    margin: 20px;
+}
+      
+.footer {
+    text-align: center;
+    color: rgb(32, 32, 32);
+}
+    
+     
+     
+      
