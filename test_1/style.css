@@ -1,0 +1,226 @@
+body { 
+    background-color: rgb(224, 224, 224);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+
+.header {
+    width: 100%;
+    height: 55px;
+    display: flex;
+    align-items: center;
+   
+}
+
+.heading {
+    width: 75%;
+    font-size: 30px;
+    padding-top: 10px;
+    margin: 20px;
+}
+
+.button {
+    background-color: #ebebeb; 
+    border: solid;
+    color: rgb(14, 14, 14);
+    padding: 5px 25px;
+    box-shadow:5px 2px 2px black;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 4px;
+}
+
+.btn {
+    background-color: #ebebeb; 
+    border: solid;
+    color: rgb(14, 14, 14);
+    padding: 5px 20px;
+    box-shadow:5px 2px 2px black;
+    display: inline-block;
+    font-size: 16px;
+    margin: 35px;
+}
+
+.line {
+    border-bottom: 3px solid #1d1010; 
+    margin: 20px;
+}
+
+#product_form {
+    width: 500px;
+    height: 20px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 10px;
+    border: solid;   
+}
+
+.wrap {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    
+}
+
+.info {
+    width: 35%;
+    
+    font-size: 20px;
+    padding-top: 10px;
+    margin: 20px;
+}
+
+#sku {
+    width: 300px;
+    height: 5px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 10px;
+    border: solid;
+}
+
+#name {
+    width: 300px;
+    height: 5px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 10px;
+    border: solid;
+}
+
+#price {
+    width: 300px;
+    height: 5px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 10px;
+    border: solid;
+}
+
+#productType {
+    width: 300px;
+    height: 100px;
+    align-items: center;
+    font-size: 20px;
+    padding-top: 40px;
+    margin: 20px;
+    
+}
+
+select {
+    width: 150px;
+    color: rgb(13, 14, 14);
+    font-size: large;
+    padding-top: 10px;
+    text-align: left;
+}
+
+form {
+   float: right;
+   padding-top: 5px;
+}
+
+.DVD {
+    width: 400px;
+    height: 150px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 20px;
+    border: solid;
+    background-color: rgb(243, 243, 243);
+    
+   
+}
+
+.Furniture {
+    width: 450px;
+    height: 250px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 20px;
+    border: solid;
+    background-color: rgb(243, 243, 243);
+}
+
+.Book {
+    width: 450px;
+    height: 150px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 20px;
+    border: solid;
+    background-color: rgb(243, 243, 243);
+    
+}
+
+#size {
+    width: 250px;
+    height: 5px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 10px;
+    border: solid;
+}
+
+#height {
+    width: 250px;
+    height: 5px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 10px;
+    border: solid;
+}
+
+#width {
+    width: 250px;
+    height: 5px;
+    background-color: rgb(234, 234, 234);
+    margin: 25px;
+    padding: 10px;
+    border: solid;
+}
+
+#length {
+    width: 250px;
+    height: 5px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 10px;
+    border: solid;
+    
+}
+
+#weight {
+    width: 250px;
+    height: 5px;
+    background-color: rgb(234, 234, 234);
+    margin: 20px;
+    padding: 10px;
+    border: solid;
+    
+}
+
+p {
+    color: blue;
+}
+
+.sel-hidden {
+    display: none
+  }
+  .sel-hidden.active{
+    display:block
+  }
+
+.footer {
+   
+    text-align: center;
+    color: rgb(32, 32, 32);
+
+}
+
+
+
+
+
